@@ -1,2 +1,4 @@
 # hello-world
-just a hello world repository
+Just a hello world repository...
+Here is something about me, I do like moon tacos too, no question anout that :)
+See you soon!
